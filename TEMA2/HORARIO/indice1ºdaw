@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/htm14/100se.dtd">
+
+<html aling="center">
+    <h1 bgcolor="#ff8f00"> ÍNDICE 1ºDAW HTML</h1>
+    <h2 bgcolor="#f9ac49"> MARÍA ABASCAL JIMÉNEZ</h2>
+    <h3 bgcolor=" #737272 "> TEMA 1: Introducción al lenguaje de marcas</h3>
+        <a href="<a href="http://www.google.es/">TAREA1</a><br>">TAREA1</a><br>
+        <a href="<a href="">TAREA2</a><br>">TAREA2</a><br>
+    <h3 bgcolor=" #737272 "> TEMA 2 : HTML</h3>
+</html>
