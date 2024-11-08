@@ -1,0 +1,6 @@
+catolog{background:#f2f2f2;font:Segoe UI’, Tahoma, Geneva, Verdana, sans-serif;color:#333;Padding:20px }
+book{border:1px solid #ccc;text-shadow: 2px 2px 4px rgba(0,0,0,0.1);Margin-bottom: 15px;Padding: 15px;Border-radius:8px;font:#fff}
+title{ font-size: 20px, bold; Color: #007bff}
+author{ font-size: 18px, italic;  Color: #555}
+year {font-size: 16px;Color: #666}
+publisher{font-size: 16px;Color: #666}

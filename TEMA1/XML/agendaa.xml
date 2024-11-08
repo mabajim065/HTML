@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<datoscliente>
+		<nombre>maria</nombre>
+		<apellido1>abascal</apellido1>
+		<apellido2>jimenez</apellido2>
+		<numeros>
+			<numeromovil>673472459</numeromovil>
+			<numerofijo>953416354</numerofijo>
+			<numerotrabajo>672459475</numerotrabajo>
+		</numeros>
+	</datoscliente>
+	<datoscliente>
+		<nombre>juan</nombre>
+		<apellido1>ramirez</apellido1>
+		<apellido2>martin</apellido2>
+		<numeros>
+			<numeromovil>673427409</numeromovil>
+			<numerofijo>953140554</numerofijo>
+			<numerotrabajo>654979475</numerotrabajo>
+		</numeros>
+	</datoscliente>
+	<datoscliente>
+		<nombre>marta</nombre>
+		<apellido1>reina</apellido1>
+		<apellido2>garcia</apellido2>
+		<numeros>
+			<numeromovil>6470216459</numeromovil>
+			<numerofijo>906713354</numerofijo>
+			<numerotrabajo>670673495</numerotrabajo>
+		</numeros>
+	</datoscliente>
+</agenda>
+	

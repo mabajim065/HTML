@@ -1,0 +1,63 @@
+datospersonales{
+	color:black;
+	font-size:20px;
+	border:1px solid #ddd;
+	
+	}
+nombre {
+	color:purple;
+	font-size:28px;
+	border:1px solid #ddd;
+	font-style : italic;
+	margin-bottom: 10xp
+	}
+apellidos 
+{color:blue;
+font-size:20px;
+border:1px solid #ddd
+}
+nif{
+	color:green;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+telefono{
+	color:red;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+email{
+	color:margin;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+direccion{
+	color:purple;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+diudad{
+	color:bold;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+cp{
+	color:purple;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+datosacademicos{
+	color:purple;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+faltas_de_asistencia{
+	color:green;
+	font-size:20px;
+	border:1px solid #ddd
+	}
+notas{
+	color:red;
+	font-size:20px;
+	border:1px solid #ddd
+	}

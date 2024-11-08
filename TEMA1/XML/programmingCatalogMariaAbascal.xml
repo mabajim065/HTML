@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+   <catalog>
+       <book>
+           <title>Clean Code</title>
+           <author>Robert C. Martin</author>
+           <year>2008</year>
+           <publisher>Prentice Hall</publisher>
+       </book>
+       <!-- Agrega al menos tres libros más siguiendo este formato -->
+	   <book>
+		<title>El_principito</title>
+           <author>Antoine de Saint-Exupéry</author>
+           <year>1943</year>
+           <publisher>Emecé Editores</publisher>
+       </book>
+	   <book>
+		<title>Caminar sobre punteras</title>
+           <author>Almudena Cid Tostado</author>
+           <year>2023</year>
+           <publisher>Vergara</publisher>
+       </book>
+	   <book>
+		<title>caballero de la armadura oxidada</title>
+           <author>Robert Fisher</author>
+           <year>1987</year>
+           <publisher>Ediciones Obelisco</publisher>
+       </book>
+   </catalog>
+

@@ -1,0 +1,9 @@
+hardwareCatalog{background:#f0f0f0;font-family:arial}
+item{border:1px solid #ddd;color: #ddd;margin-bottom: 10xp;padding:5xp;display:block}
+id{font-size:1.2 em;font-weight: boldd}
+type{color: blue}
+brand{color: green}
+model{color:purple}
+specifications{ont-style : italic}
+
+	

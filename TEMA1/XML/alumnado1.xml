@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnado>
+    <datospersonales>
+        <nombre>ana</nombre>
+        <apellidos>Fernandez Gutierrez</apellidos>
+        <nif>16965696L</nif>
+        <telefono>789654321</telefono>
+        <email>ana.fdezgtrrez@hotmail.com</email>
+        <direccion>C/El Percebe, 13</direccion>
+        <ciudad>santander</ciudad>
+        <cp>39302</cp>
+    </datospersonales>
+    <datos_academicos>
+        <faltas_de_asistencia>no hay informacion</faltas_de_asistencia>
+        <notas>no hay informacion</notas>
+    </datos_academicos>
+    <datospersonales>
+        <nombre>pepito</nombre>
+        <apellidos>grillo</apellidos>
+        <nif>98765432H</nif>
+        <telefono>656566555</telefono>
+        <email>yhyh@yahoo.com</email>
+        <direccion>Avd. El Pez, 5</direccion>
+        <ciudad>suances</ciudad>
+        <cp>39401</cp>
+    </datospersonales>
+    <datos_academicos>
+        <faltas_de_asistencia>no hay informacion</faltas_de_asistencia>
+        <notas>apto</notas>
+    </datos_academicos>
+</alumnado>

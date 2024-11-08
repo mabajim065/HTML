@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='estilo-examenpractico.css'?>
+<empresa>
+	<empleados>
+		<empleado>
+			<nombre>Ana</nombre>
+			<apellido>Garcia</apellido>
+			<edad>30</edad>
+			<departamento>Ventas</departamento>
+				<códigodepartamento>001</códigodepartamento>
+			<cargo>Ejecutivo de ventas</cargo>
+		</empleado>
+		<empleado>
+			<nombre>Luis</nombre>
+			<apellido>Rodriguez</apellido>
+			<edad>45</edad>
+			<departamento>Finanzas</departamento>
+				<códigodepartamento>002</códigodepartamento>
+			<cargo>Analisis financiero</cargo>
+		</empleado>
+		<empleado>
+			<nombre>María</nombre>
+			<apellido>López</apellido>
+			<edad>28</edad>
+			<departamento>Marketing</departamento>
+				<códigodepartamento>003</códigodepartamento>
+			<cargo>Especialista en redes sociales</cargo>
+		</empleado>
+	</empleados>
+</empresa>
